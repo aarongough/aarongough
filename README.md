@@ -1,16 +1,16 @@
-## Hi there 👋
+# Aaron Gough
 
-<!--
-**aarongough/aarongough** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a senior software consultant focused on applied AI, secure agentic systems, AI security, and developer tooling.
 
-Here are some ideas to get you started:
+I'm especially interested in how engineering teams can use increasingly capable coding agents while preserving strong engineering standards, bounded execution, clear review paths, and responsible deployment practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Current focus:
+
+- Secure agentic systems: sandboxing, tool boundaries, human-in-the-loop workflows, evals, observability, and production integration
+- AI security research: defensive testing and evaluation through Anthropic's Cyber Verification Program (CVP)
+- Developer tooling: Ruby/Rails systems, coding-agent workflows, CI/CD, testing strategy, and engineering team enablement
+- Real-world systems: CAD/CAM, CNC machining, prototyping, fixtures, drones, and low-volume manufacturing
+
+My background combines 20+ years of production software engineering with founder experience at Gough Custom, where I've designed, manufactured, marketed, and shipped roughly 2,000 CNC-machined knives.
+
+My unusual edge is that I can move comfortably between software architecture, developer workflows, security thinking, physical systems, and public technical communication.
