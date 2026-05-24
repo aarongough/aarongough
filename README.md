@@ -6,11 +6,11 @@ I'm especially interested in how engineering teams can use increasingly capable 
 
 Current focus:
 
-- Secure agentic systems: sandboxing, tool boundaries, human-in-the-loop workflows, evals, observability, and production integration
+- Secure agentic systems: sandboxing, human-in-the-loop workflows, tool boundaries, observability, and security review
 - AI security research: defensive testing and evaluation through Anthropic's Cyber Verification Program (CVP)
 - Developer tooling: Ruby/Rails systems, coding-agent workflows, CI/CD, testing strategy, and engineering team enablement
-- Real-world systems: CAD/CAM, CNC machining, prototyping, fixtures, drones, and low-volume manufacturing
+- Real-world systems: CAD/CAM, CNC machining, prototyping, fixtures, FPV drones, and low-volume manufacturing
 
-My background combines 20+ years of production software engineering with founder experience at Gough Custom, where I've designed, manufactured, marketed, and shipped roughly 2,000 CNC-machined knives.
+My background combines 15+ years of production software engineering with founder experience at Gough Custom, where I've designed, manufactured, marketed, and shipped roughly 2,000 CNC-machined knives.
 
-My unusual edge is that I can move comfortably between software architecture, developer workflows, security thinking, physical systems, and public technical communication.
+The unusual part of my background is that I can move comfortably between software architecture, developer workflows, security thinking, physical systems, and public technical communication.
